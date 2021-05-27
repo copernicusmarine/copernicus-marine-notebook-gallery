@@ -1,7 +1,7 @@
 # Copernicus Marine Notebook Gallery
 ![CopernicusMarine screenshot](copernicus-marine-jupyter-overview.png "CopernicusMarine screenshot")
 
-A gallery of Jupyter Notebooks and more, dedicated to Copernicus Marine Service (https://marine.copernicus.eu) and Mercator Ocean International activities.
+A gallery of Jupyter Notebooks and more, dedicated to Copernicus Marine Service (https://marine.copernicus.eu) and Mercator Ocean International activities (https://www.mercator-ocean.fr/en/).
 
 **Credits**: E.U. Copernicus Marine Service Information
 
