@@ -20,7 +20,9 @@ A gallery of Jupyter Notebooks and more, dedicated to Copernicus Marine Service 
    2. [Sail the global ocean : Sail through the Indonsian throughflow with OpenDrift, a lagrangian particles trajectories tool](./01_22_CMEMS_handson_OPENDRIFT.ipynb)
 1. **Global Ocean Modeling**
    1. [Dive into a 3D Virtual Ocean: Interannual variability of the Leeuwin current](./01_31_CMEMS_handson_DIVEp1.ipynb) - [**`[LiveCode]`**](https://tiny.cc/copernicus-nbg-01_31)
-   2. [Dive into a 3D Virtual Ocean: Assimilating altimetry in a 3D model](./01_34_CMEMS_handson_DIVEp4.ipynb) - [**`[LiveCode]`**](https://tiny.cc/20210528)
+   2. [Dive into a 3D Virtual Ocean: The Leeuwin current annual cycle](./01_32_CMEMS_handson_DIVEp2.ipynb)
+   3. [Dive into a 3D Virtual Ocean: The Leeuwin current annual cycle](./01_33_CMEMS_handson_DIVEp3.ipynb)
+   4. [Dive into a 3D Virtual Ocean: Assimilating altimetry in a 3D model](./01_34_CMEMS_handson_DIVEp4.ipynb) - [**`[LiveCode]`**](https://tiny.cc/20210528)
 1. **Sea Surface Temperature**
    1. [Subset, Download, Read, Convert, Plot NetCDF Files over Global Ocean](./10-01-Subset-Download-Read-Convert-Plot-NetCDF-files-over-Global-Ocean.ipynb) - [**`[LiveCode]`**](https://tiny.cc/20200527)
  
