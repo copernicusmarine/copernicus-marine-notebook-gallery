@@ -14,7 +14,7 @@ A gallery of Jupyter Notebooks and more, dedicated to Copernicus Marine Service 
 ## Table of Contents
 1. **Comparison and Validation**
    1. [A view on the ocean : the physical or the statistical view](./01_11_CMEMS_handson_CLASS4.ipynb)
-   2. [Physical/Biogeochemical Processes of Portugal and west of Galicia](./01_12_CMEMS_handson_UPWELLING.ipynb)
+   2. [A view on the ocean : Physical/Biogeochemical Processes of Portugal and west of Galicia](./01_12_CMEMS_handson_UPWELLING.ipynb)
 1. **Surface Monitoring**
    1. [Sail the global ocaen : Studying the impact of the FELLENG cyclone on oceanic temperature in the Indian Ocean](./01_21_CMEMS_handson_CYCLONES.ipynb)
    2. [Sail the global ocean : Sail through the Indonsian throughflow with OpenDrift, a lagrangian particles trajectories tool](./01_22_CMEMS_handson_OPENDRIFT.ipynb)
